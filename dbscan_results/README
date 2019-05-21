@@ -1,0 +1,3 @@
+These are the dbscan results calculated from TACC. 
+The last part of the file name is the hpix ID and the tags correspond to all stars with that ID, in the original order.
+Thus you should be able to recover RA, Dec, and magnitude info if you use the index with the .csv data file.
